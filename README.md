@@ -1,5 +1,5 @@
 # stock-analysis
-Overview of Project: Explain the purpose of this analysis.
+The Purpose of this analysis.
 The Purpose of this Analysis was to help Steve determine the best stocks and also to refactor a Excel VBA code to collect necessary information in year 2017 and 2018. 
 This would in turn determine if the stocks are worth investing in or not
 
