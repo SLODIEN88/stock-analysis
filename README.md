@@ -13,6 +13,7 @@ Disadvantages: if the information is too large, it might take a longer time to c
 
 How do these pros and cons apply to refactoring the original VBA script?
 Refactoring the original code helps reduce the macro run time as indicated below
+
 ![image](https://user-images.githubusercontent.com/96274446/149634765-7d888a04-dfba-454b-b64d-6bcfe5b719e5.png)
 ![image](https://user-images.githubusercontent.com/96274446/149634780-55a6cd75-7ee7-4d12-b2f1-88c828bd16ea.png)
 
